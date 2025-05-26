@@ -126,9 +126,9 @@ We provide several demo notebooks in `src/` for experiments discussed in the pap
  ┣ 📂third_party
  ┃ ┣ 📂opencompass
  ┃ ┗ 📂verl
- ┣ 📜 landscape.ipynb             # Visualizing landscape
+ ┣ 📜 landscape.ipynb                # Visualizing landscape
  ┣ 📜 pseudo_gradient_descent.ipynb  # Experiments on pseudo gradient descent
- ┗ 📜 trajectory_pruning.ipynb    # Experiments on trajectory pruning
+ ┗ 📜 trajectory_pruning.ipynb       # Experiments on trajectory pruning
 ```
 
 ## 📖 Citation
