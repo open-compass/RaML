@@ -2,7 +2,7 @@
 
 
 <p align="center">
-🤗 <a href="https://huggingface.co/collections/jnanliu/raml-data-6834222cdc8b182b0d50c62e">Dataset</a>&nbsp;&nbsp;|&nbsp;&nbsp;📄 <a href="">arXiv</a>
+🤗 <a href="https://huggingface.co/collections/jnanliu/raml-data-6834222cdc8b182b0d50c62e">Dataset</a>&nbsp;&nbsp;|&nbsp;&nbsp;📄 <a href="https://arxiv.org/abs/2505.19815">arXiv</a>
 </p>
 
 > *This repository provides the codebase utilized by the paper **Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective***
@@ -136,6 +136,11 @@ We provide several demo notebooks in `src/` for experiments discussed in the pap
 If you find this repository helpful, please consider citing our paper:
 
 ```
-
+@article{abs-2505-19815,
+  author       = {Junnan Liu and Hongwei Liu and Linchen Xiao and Shudong Liu and Taolin Zhang and Zihan Ma and Songyang Zhang and Kai Chen},
+  title        = {s1: Simple test-time scaling},
+  journal      = {CoRR},
+  volume       = {abs/2505.19815},
+  year         = {2025}
+}
 ```
-
