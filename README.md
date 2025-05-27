@@ -138,7 +138,7 @@ If you find this repository helpful, please consider citing our paper:
 ```
 @article{abs-2505-19815,
   author       = {Junnan Liu and Hongwei Liu and Linchen Xiao and Shudong Liu and Taolin Zhang and Zihan Ma and Songyang Zhang and Kai Chen},
-  title        = {s1: Simple test-time scaling},
+  title        = {Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective},
   journal      = {CoRR},
   volume       = {abs/2505.19815},
   year         = {2025}
