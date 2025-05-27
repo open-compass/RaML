@@ -2,7 +2,7 @@
 
 
 <p align="center">
-🤗 <a href="https://huggingface.co/collections/jnanliu/raml-data-6834222cdc8b182b0d50c62e">Dataset</a>&nbsp;&nbsp;|&nbsp;&nbsp;📄 <a href="https://arxiv.org/abs/2505.07062">arXiv</a>
+🤗 <a href="https://huggingface.co/collections/jnanliu/raml-data-6834222cdc8b182b0d50c62e">Dataset</a>&nbsp;&nbsp;|&nbsp;&nbsp;📄 <a href="">arXiv</a>
 </p>
 
 > *This repository provides the codebase utilized by the paper **Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective***
